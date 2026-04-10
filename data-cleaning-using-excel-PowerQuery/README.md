@@ -46,7 +46,7 @@ The data is downloaded from [kaggle](https://www.kaggle.com/datasets/snehangsude
 
 ---
 
-## 🔧 Data Cleaning Process usin Power Query 
+## Data Cleaning Process usin Power Query 
 
 ### 1. Text Cleaning
 
@@ -89,7 +89,7 @@ Cleaned Dataset
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 * Microsoft Excel
 * Power Query
